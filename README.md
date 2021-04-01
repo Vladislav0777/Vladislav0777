@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vladislav0777.
 - 👀 I’m interested in java and android development.
-- 🌱 I’m currently learning Spring, SQL(DML in base) and Concurrency in java.
+- 🌱 I’m currently learning Spring, Tomcat, Hibernate, Maven, SQL(DML in base) and Concurrency in java.
 - 💞️ I’m looking to collaborate on java backend or android (java) applications development.
 - 📫 How to reach me:
         Email        : zaycev.vlad.c@gmail.com

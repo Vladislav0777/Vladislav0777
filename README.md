@@ -6,7 +6,7 @@
         Email        : zaycev.vlad.c@gmail.com
         WhatssApp    : +7-993-232-89-68
         Discord      : Vladislav#6791
-    
+        vK           : https://vk.com/vladikkkx
 
 <!---
 Vladislav0777/Vladislav0777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

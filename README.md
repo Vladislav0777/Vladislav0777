@@ -5,7 +5,6 @@
 - 📫 How to reach me:
         Email        : zaycev.vlad.c@gmail.com
         WhatssApp    : +7-993-232-89-68
-        Discord      : Vladislav#6791
         VK           : https://vk.com/vladikkkx
 
 <!---

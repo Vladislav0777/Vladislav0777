@@ -13,7 +13,7 @@
 - Git, 
 - Tomcat, 
 - Hibernate,
-- Junit,
+- JUnit,
 - Http & CSS,
 - JavaScript.
 <!---

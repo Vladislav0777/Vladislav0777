@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vladislav0777.
 - 👀 I’m interested in java backend(web) and android (java) development.
-- 🌱 I’m currently learning Spring framework, Hibernate, Maven, SQL(Postgres and MySQL) and Concurrency in java.
+- 🌱 I’m currently learning algorithms and data structures in java.
 - 💞️ I’m looking to collaborate on java backend(web) or android (java) applications development.
 - 📫 How to reach me:
         Email        : zaycev.vlad.c@gmail.com

@@ -14,7 +14,7 @@
 - Tomcat, 
 - Hibernate,
 - Junit,
-- Http & SCC,
+- Http & CSS,
 - JavaScript.
 <!---
 Vladislav0777/Vladislav0777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

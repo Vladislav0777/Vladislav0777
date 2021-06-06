@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning algorithms & data structures in java.
 - 💞️ I’m looking to collaborate on java backend(web) or android (java) applications development.
 - 📫 How to reach me:
-        Email        : zaycev.vlad.c@gmail.com
-        Telegram     : @sunrisse
-        WhatssApp    : +7-993-232-89-68
-        VK           : https://vk.com/vladikkkx
+- Email        : zaycev.vlad.c@gmail.com
+- Telegram     : @sunrisse
+- WhatssApp    : +7-993-232-89-68
+- VK           : https://vk.com/vladikkkx
 - 💼 Technology stacks i use: 
 - Spring Framework, 
 - Maven, 

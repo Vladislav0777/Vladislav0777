@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vladislav0777.
-- 👀 I’m interested in java backend(web) & android (java) development.
+- 👀 I’m java full-stack & mobile (durt&flutter) development.
 - 🌱 I’m currently learning algorithms & data structures in java.
-- 💞️ I’m looking to collaborate on java backend(web) or android (java) applications development.
+- 💞️ I’m looking to collaborate on java full-stack & mobile on durt&flutter applications development.
 - 📫 Contact me:
 - Telegram     : @sunrisse
 - WhatssApp    : +7-993-232-89-68
@@ -16,6 +16,8 @@
 - JUnit,
 - Http & CSS,
 - JavaScript.
+- Durt
+- Flutter
 <!---
 Vladislav0777/Vladislav0777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

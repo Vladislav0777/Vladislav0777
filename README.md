@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning spring framework.
 - 💞️ I’m looking to collaborate on java full-stack & mobile on dart&flutter applications development.
 - 📫 Contact me:
-- Telegram     : @sunrisse
+- Telegram     : +7-993-232-89-68
 - WhatssApp    : +7-993-232-89-68
 - VK           : https://vk.com/vladikkkx
 - 💼 Technology stacks i use: 

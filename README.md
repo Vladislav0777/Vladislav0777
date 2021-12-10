@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vladislav0777.
 - 👀 I’m java full-stack & mobile (dart&flutter) developer.
 - 🌱 I’m currently learning spring framework.
-- 💞️ I’m looking to collaborate on java full-stack & mobile on durt&flutter applications development.
+- 💞️ I’m looking to collaborate on java full-stack & mobile on dart&flutter applications development.
 - 📫 Contact me:
 - Telegram     : @sunrisse
 - WhatssApp    : +7-993-232-89-68

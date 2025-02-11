@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vladislav0777.
+- 👋 Hi, I’m Vlad.
 - 👀 I’m java developer.
 - 📫 Contact me:
 - Telegram     : [@vladz733](https://t.me/vladz733)

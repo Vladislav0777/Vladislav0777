@@ -1,12 +1,11 @@
-Hi there, I'm Vlad! 
-👋I'm a Java Developer from Russia. 
+Hi there, I'm Vlad!  
+👋I'm a Java Developer from Russia.  
+I am passionate about continuous learning
+and constantly improving my skills.  
 
-I am passionate about continuous learning 
-and constantly improving my skills.
-
-💻 Interests: Software Engineering, Math, and System Design.
-📚 Hobbies: Reading science fiction and doing yoga.
-🎯 My Ambition: To become a Solution Architect and design useful, large-scale systems.
+💻 Interests: Software Engineering, Math, and System Design.  
+📚 Hobbies: Reading science fiction and doing yoga.  
+🎯 My Ambition: To become a Solution Architect and design useful, large-scale systems.  
 📫 Contact me:
 - Telegram     : [@ActiveAnzyme](https://t.me/ActiveAnzyme)
 - Email : zaycev.vlad.c@gmail.com

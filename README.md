@@ -1,5 +1,5 @@
-Hi there, I'm Vlad!  
-👋I'm a Java Developer from Russia.  
+Hi there, I'm Vlad!👋  
+I'm a Java Developer from Russia.  
 I am passionate about continuous learning
 and constantly improving my skills.  
 
